@@ -102,7 +102,7 @@ export const DATA = {
       href: "https://github.com/ShaikhJ18/Employee-Management-Application",
       dates: "Dec 2024",
       active: true,
-      description: 'Teamflow is a lightweight, self-hosted solution designed for small businesses and startups to manage employee information and performance. Built with SQLite3 for fast and secure storage, Teamflow offers an intuitive platform to track employee profiles, attendance, and performance metrics. With integrated performance charts, you can easily visualize progress and make data-driven decisions to optimize team performance. Perfect for businesses needing an affordable, streamlined approach to employee management, Teamflow gives you full control over your data and privacy. Simple to set up and easy to use, Teamflow is ideal for growing teams looking for efficiency and organization.',
+      description: 'Teamflow is a lightweight, self-hosted solution designed for small businesses and startups to manage employee information and performance',
       technologies: [
         "React.js",
         "TailwindCSS",
@@ -120,7 +120,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "https://th.bing.com/th/id/OIP.6MiJIvbfH9wCYnIXKZD0jgHaEk?rs=1&pid=ImgDetMain",
+      image: "",
       video:
         "",
     },
@@ -146,7 +146,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://wallpaperaccess.com/full/1393727.jpg",
+      image: "",
       video: "",
     },
    
