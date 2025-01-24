@@ -120,33 +120,33 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "https://th.bing.com/th/id/OIP.6MiJIvbfH9wCYnIXKZD0jgHaEk?rs=1&pid=ImgDetMain",
       video:
         "",
     },
     {
-      title: "Quote generation Web Application",
-      href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      title: "ShaikStockDataViz",
+      href: "https://github.com/ShaikhJ18/ShaikhStockDataViz",
+      dates: "January 2024",
       active: true,
       description:
-        "Designed, developed a web application to generate quotes",
+        "Developed a Web application using Pandas, matplotlib, yfinance API, and streamlit to visualize real world stock data",
       technologies: [
-        "Quotable API", "HTML5", "CSS", "JavaScript"
+        "Python", "streamlit", "pandas", "yfinance","matplotlib",
       ],
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "https://github.com/ShaikhJ18/ShaikhStockDataViz",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
+          href: "https://github.com/ShaikhJ18/ShaikhStockDataViz",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "https://wallpaperaccess.com/full/1393727.jpg",
       video: "",
     },
    
