@@ -9,9 +9,9 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "I am a Third-Year Major Honours Computer Science Co-op student at the University of Guelph.",
+    "I am a 4th-Year Major Honours Computer Science Co-op student at the University of Guelph.",
   summary:
-    "As a third-year Computer Science Co-op student at the University of Guelph, I am passionate about applying my technical knowledge to build innovative and efficient software solutions. I am driven to write clean, maintainable code and continuously improve my programming skills, while also leveraging my strong foundation in mathematics and statistics to approach complex problems with precision and creativity. I am actively seeking a Co-op opportunity where I can contribute to a team, solve real-world challenges, and gain hands-on experience in software engineering. I bring a dependable and collaborative attitude, a strong work ethic, and a genuine passion for technology and learning. Whether it's designing algorithms, optimizing code, or developing software from the ground up, I am committed to delivering high-quality work and making a meaningful impact. I look forward to working at a forward-thinking company where I can not only apply my skills but also grow and contribute to building something extraordinary.",
+    "As a 4th-year Computer Science Co-op student at the University of Guelph, I am passionate about applying my technical knowledge to build innovative and efficient software solutions. I am driven to write clean, maintainable code and continuously improve my programming skills, while also leveraging my strong foundation in mathematics to approach complex problems with precision and creativity. I am actively seeking a Co-op opportunity for the W25 and S25 season where I can contribute to a team, solve real-world challenges, and gain hands-on experience in software engineering. I bring a dependable and collaborative attitude, a strong work ethic, and a genuine passion for technology and learning. Whether it's designing algorithms, optimizing code, or developing software from the ground up, I am committed to delivering high-quality work and making a meaningful impact. I look forward to working at a forward-thinking company where I can not only apply my skills but also grow and contribute to building something extraordinary.",
   avatarUrl: "/JawadShaikhProfilePicture.jpg",
   skills: [
     "Java", "Python", "C", "JavaScript", "HTML/CSS", "R", "Bash", "SQL", 
@@ -52,6 +52,17 @@ export const DATA = {
   },
 
   work: [
+        {
+      company: "Data Inn Technologies",
+      href: "https://datainn.io/",
+      badges: [],
+      location: "Remote",
+      title: "Software Engineer",
+      logoUrl: "/DataInnLogo.png",
+      start: "Jun 2025",
+      end: "Sep 2025",
+      description: "Prompted and guided AI agents to generate UI components, backend logic, and database schemas, ensuring alignment with functional requirements and user experience goals. Developed and maintained backend services using Node.js and Drizzle ORM, ensuring efficient data access and secure handling of user-generated content. Performed rigorous testing, debugging, and integration validation across the stack, delivering a stable and reliable experience for end users.",
+    },
     {
       company: "Simpleaccounts.io",
       href: "https://simpleaccounts.io/",
